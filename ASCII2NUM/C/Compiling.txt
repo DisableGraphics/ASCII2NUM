@@ -1,0 +1,1 @@
+Use GCC or the MS C compiler in visual studio
